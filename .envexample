@@ -1,0 +1,3 @@
+EMAIL_USER=senderMail
+EMAIL_RECEIVER=receiverMail
+EMAIL_PASS='yourpassword'
